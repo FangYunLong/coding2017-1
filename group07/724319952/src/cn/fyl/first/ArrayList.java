@@ -8,7 +8,7 @@ public class ArrayList implements List {
 	// 记录数组大小
 	private int size = 0;
 
-	// 设数组容量为100
+	// 设数组容量为3
 	private Object[] elementData = new Object[3];
 
 	// 扩容
